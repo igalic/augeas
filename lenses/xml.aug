@@ -1,8 +1,25 @@
 (* XML lens for Augeas
-   Author: Francis Giraldeau <francis.giraldeau@usherbrooke.ca>
+ *  Author: 
+ *
+ *  Reference: 
+(*
+Module: Xml
+  Parses XML files
 
-   Reference: http://www.w3.org/TR/2006/REC-xml11-20060816/
-*)
+Author: Francis Giraldeau <francis.giraldeau@usherbrooke.ca>
+
+About: Reference
+  This lens tries implements the XML 1.1 spec: http://www.w3.org/TR/2006/REC-xml11-20060816/
+
+About: License
+   This file is licenced under the LGPL v2+, like the rest of Augeas.
+
+About: Lens Usage
+   To be documented
+
+About: Examples
+   The <Test_ActiveMQ_XML> file contains various examples and tests.
+ *)
 
 module Xml =
 
